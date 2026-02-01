@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class LoanLifeCycleApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(LoanLifeCycleApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(LoanLifeCycleApplication.class, args);
+    }
 
 }
